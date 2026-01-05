@@ -27,7 +27,8 @@ print("\nColumn-wise Sorted Array:")
 print(sorted_arr)
 
 ## Output
-![Uploading image.png…]()
+<img width="1548" height="999" alt="image" src="https://github.com/user-attachments/assets/0868cc67-ce01-4422-ae24-92faf9e3d72a" />
+
 
 ## Result
 The NumPy program successfully sorts the elements in each column of a given 2D array in ascending order.
